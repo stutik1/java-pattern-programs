@@ -1,3 +1,5 @@
+package pattern;
+
 public class DiamondPattern {
     public static void diamond(int n) {
         for (int i = 1; i <= n-1; i++) {

@@ -1,3 +1,5 @@
+package pattern;
+
 public class RightHalfPyramid {
     public static void rightHalf(int n){
         for(int i=1;i<=n;i++){

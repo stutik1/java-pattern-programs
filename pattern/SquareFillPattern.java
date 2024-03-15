@@ -1,3 +1,5 @@
+package pattern;
+
 public class SquareFillPattern {
     public static void squareFill(int n){
         for(int i=0;i<=n;i++){

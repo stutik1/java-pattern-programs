@@ -1,3 +1,5 @@
+package pattern;
+
 public class LeftPrint {
         public static void leftPrint(int n) {
             for (int i = 0; i <= n; i++) {

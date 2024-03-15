@@ -1,3 +1,5 @@
+package pattern;
+
 public class NumberIncreasingPyramid {
     public static void numberIncreasing(int n){
         for(int i=1;i<=n;i++){

@@ -1,3 +1,5 @@
+package pattern;
+
 public class NumberChangingPyramid {
     public static void numberChanging(int n){
         int num = 1;

@@ -1,3 +1,5 @@
+package pattern;
+
 public class HollowPattern {
     public static void hollowPattern(int n) {
         for(int i=0;i<n ;i++){

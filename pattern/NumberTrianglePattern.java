@@ -1,3 +1,5 @@
+package pattern;
+
 public class NumberTrianglePattern {
     public static void NumberTriangle(int n){
         for(int i=1;i<= n;i++){

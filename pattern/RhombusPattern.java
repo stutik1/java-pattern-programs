@@ -1,3 +1,5 @@
+package pattern;
+
 public class RhombusPattern {
     public static void rhombus(int n){
         for (int i=0;i<=n;i++){
