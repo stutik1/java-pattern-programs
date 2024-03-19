@@ -2,7 +2,11 @@ package oops;
 
  abstract class Vehicle {
       abstract void start();
-}
+
+     void wheel() {
+         System.out.println("4");
+     }
+ }
 
 class Car extends Vehicle{
     void start(){
@@ -23,6 +27,7 @@ class Scooter extends Vehicle{
 
         Scooter scooter = new Scooter();
         scooter.start();
+
     }
 }
 
