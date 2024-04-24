@@ -1,4 +1,4 @@
-package hashcode;
+package hashmap;
 
 import java.util.Objects;
 
