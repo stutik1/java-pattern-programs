@@ -1,5 +1,8 @@
 package leetcode.medium;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class ListNode {
     int val;
     ListNode next;
@@ -34,7 +37,7 @@ public class ReverseLinkedList {
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(4);
         head.next.next.next.next = new ListNode(5);
-
+        List<Integer> arrayL=new ArrayList<>();
         System.out.println("Original linked list:");
         printLinkedList(head);
 
